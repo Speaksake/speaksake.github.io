@@ -1457,9 +1457,9 @@ form .field.filled label {
     font-style:italic
 }
 
-body {
+/* body {
     background-image:linear-gradient(180deg, #cbe2ea 7rem, #cbe2ea 0, #fff 20rem)
-}
+}*/
 
 .shrinkHeader .logo {
     font-size: 1.875rem;
